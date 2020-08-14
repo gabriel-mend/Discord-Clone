@@ -39,7 +39,7 @@ $ cd discord-clone
 
 ```
 
-### 💻 Rodando a aplicação web no (frontend)
+### 💻 Rodando a aplicação
 ```bash
 # Instale as dependências
 $ yarn install
