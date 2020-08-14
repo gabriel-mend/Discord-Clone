@@ -15,7 +15,7 @@
 ## 💬 Sobre o projeto
 Este projeto é um UI-Clone disponibilizado pela rocketseat.
 
-Ele aborda muitas funcionalidades como a de grid-template, componentização com react onde pudemos criar componentes repetíveis e responsíveis para aplicar eles em tela.
+Ele aborda muitas funcionalidades como a de grid-template, propiedades, estados, componentização com react onde pudemos criar componentes repetíveis e responsíveis para aplicar eles em tela.
 
 ## ⌨️ Tecnologias utilizadas
 * [React JS](https://pt-br.reactjs.org)
