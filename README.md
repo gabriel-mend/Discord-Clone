@@ -1,6 +1,6 @@
 <h1 align="center"><img height="100" src="https://user-images.githubusercontent.com/49095200/90287686-b98c0c80-de4e-11ea-88d6-883935518ea0.png" /></h1>
 
-<h2 align="center"> 👬 Clone do discord!</h2>
+<h2 align="center"> 👬 UI-clone do discord!</h2>
 <p align="center">
  <a href="">Sobre</a> •
  <a href="">Tecnologias</a> • 
