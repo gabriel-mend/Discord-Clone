@@ -3,9 +3,9 @@
 <h2 align="center"> 👬 UI-clone do discord!</h2>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="/#-tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-como-executar-o-projeto-">Como executar o projeto</a> • 
- <a href="#-sobre-mim">Autor</a> • 
+ <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
+ <a href="#sobre-mim">Autor</a> • 
  <a href="#-agradecimentos">Agradecimentos</a>
 </p>
 <img src="https://user-images.githubusercontent.com/49095200/90288275-e987df80-de4f-11ea-830c-37d520728255.png" />
@@ -56,6 +56,6 @@ $ yarn start
  <p>Gabriel Mendonça Pereira</p>
 </a>
 
-## 💜  Agrecimentos
+## 💜 Agrecimentos
 Obrigado [Rocketseat](https://github.com/Rocketseat) por disponibilizar esse conteúdo de maneira acessível a todos e ao [Guilherme Rodz](https://github.com/guilhermerodz) por nós instruir🚀.
 
