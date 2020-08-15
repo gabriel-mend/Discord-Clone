@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👬 UI-clone do discord!</h2>
 <p align="center">
- <a href="">Sobre</a> •
+ <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="">Tecnologias</a> • 
  <a href="">Como executar o projeto</a> • 
  <a href="">Autor</a> • 
@@ -13,7 +13,7 @@
 ## 🎯 Link do projeto: https://cloned-discord.netlify.app
 
 ## 💬 Sobre o projeto
-Este projeto é um UI-Clone disponibilizado pela rocketseat.
+Este projeto é um UI-Clone disponibilizado pela **rocketseat**.
 
 Ele aborda muitas funcionalidades como a de grid-template, propiedades, estados, componentização com react onde pudemos criar componentes repetíveis e responsíveis para aplicar eles em tela.
 
