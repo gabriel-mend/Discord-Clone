@@ -3,7 +3,7 @@
 <h2 align="center"> 👬 UI-clone do discord!</h2>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="/#-tecnologias-utilizadas">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto-">Como executar o projeto</a> • 
  <a href="#-sobre-mim">Autor</a> • 
  <a href="#-agradecimentos">Agradecimentos</a>
